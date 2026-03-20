@@ -51,6 +51,11 @@ python app.py
 3.  **Generate:** Click the **"Run"** or **"Generate"** button.
 4.  **View Results:** Wait for the AI to process and display the final transformed image in the Output section.
 
+## 🤝 Credits & Acknowledgments
+This project utilizes and builds upon the excellent work of the community:
+*   **ComfyUI-On-Colab:** Based on the repository by [nazdridoy/ComfyUI-On-Colab](https://github.com/nazdridoy/ComfyUI-On-Colab), which provides the foundation for running these high-performance models on Google Colab.
+*   Special thanks to the researchers and developers of IDM-VTON, OOTDiffusion, CatVTON, FitDiT, and Outfit Anyone.
+
 ## 📌 Disclaimer
 This project is for experimental and educational purposes only. Performance may vary depending on GPU resources and the quality of the input images.
 
